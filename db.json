@@ -55,20 +55,20 @@
     },
     {
       "id": "7",
-      "name": "Trek Madone 9.9",
-      "price": "11,999.99",
-      "img": "madone99.jpg",
-      "description": "It doesn't get better than this. Madone 9.9 is the final stop in your search for a top-of-the-line superbike. It's the choice of the pros of Trek-Segafredo, and for good reason: advanced road bike aerodynamics, light weight, the highest level parts spec and the finest ride quality available.",
-      "tech": "600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed Micro-adjust seatmast, E2 tapered head tube, BB90, invisible cable routing, control centre, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible ForkMadone KVF full carbon, carbon E2 steerer, carbon dropouts, integrated brake and stem. Wheels: WheelsBontrager Aeolus 5 D3 Tubeless Ready. Shimano Dura - Ace Di2",
-      "weight": "56cm - 6.80kg"
+      "name": "TCR ADVANCED PRO TEAM 2019",
+      "price": "$3,400",
+      "img": "GiantTCR-Adv-ProTeam.jpg",
+      "description": "FROM DAILY TRAINING RIDES TO YOUR BIGGEST RACE OF THE YEAR. TOTAL RACE PERFORMANCE, MADE FOR YOUR PODIUM QUEST. Attack the climb, chase down a break, accelerate out of a corner in the final kilometer. With its Advanced-grade composite frame, which minimizes weight without sacrificing its best-in-class stiffness.",
+      "tech": "Advanced-grade composite frame features special edition Giant-Sunweb graphics. Advanced-grade composite fork with full-composite OverDrive 2 steerer. Shimano Ultegra mechanical groupset. Giant SLR 1 composite WheelSystem with Giant AC Tubeless tires",
+      "weight": "not included"
     },
     {
       "id": "8",
-      "name": "Trek Madone 9.9",
-      "price": "11,999.99",
-      "img": "madone99.jpg",
-      "description": "It doesn't get better than this. Madone 9.9 is the final stop in your search for a top-of-the-line superbike. It's the choice of the pros of Trek-Segafredo, and for good reason: advanced road bike aerodynamics, light weight, the highest level parts spec and the finest ride quality available.",
-      "tech": "600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed Micro-adjust seatmast, E2 tapered head tube, BB90, invisible cable routing, control centre, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible ForkMadone KVF full carbon, carbon E2 steerer, carbon dropouts, integrated brake and stem. Wheels: WheelsBontrager Aeolus 5 D3 Tubeless Ready. Shimano Dura - Ace Di2",
+      "name": "S-WORKS TARMAC",
+      "price": "42 599 PLN",
+      "img": "sworks-tarmac.jpg",
+      "description": "We've never been one to rest on our laurels, which is why we're constantly hunting for even the smallest of improvements. In other words, we innovate or die. And for this exact reason, the new S-Works Tarmac breaks all the traditions of race bike design to create the fastest bike for all conditions.",
+      "tech": "To get the weight below 800 grams, we utilized advanced aerospace composite optimization software to revolutionize the construction and layup of our new FACT 12r carbon. It's the most advanced material and schedule we've ever made—the shape, schedule, and material optimization allowed us to shed nearly 200 grams. That's right, a 20% reduction in frame weight—the perfect recipe for your next hill climb PR. In our search to save every last gram, the S-Works Tarmac Ultralight also uses a newly developed paint finish that further reduces weight. We then further improved our Rider-First Engineered™ technology to ensure that the new Tarmac is stiff and compliant in exactly the right places. With this revamp, we also updated the geometry—basing it on countless Retül data points and professional rider input. This enabled us to develop a performance road geometry that perfects the combination of a responsive front end and short wheelbase, delivering instantaneous response and optimal power transfer. This S-Works Tarmac comes ready to race with Shimano's new Dura-Ace 9150 Di2 groupset with direct mount brakes, and the lightweight, yet impressively aerodynamic, Roval CLX 50s with 26mm Turbo Cotton tires.",
       "weight": "56cm - 6.80kg"
     },
     {
@@ -78,7 +78,7 @@
       "img": "madone99.jpg",
       "description": "It doesn't get better than this. Madone 9.9 is the final stop in your search for a top-of-the-line superbike. It's the choice of the pros of Trek-Segafredo, and for good reason: advanced road bike aerodynamics, light weight, the highest level parts spec and the finest ride quality available.",
       "tech": "600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed Micro-adjust seatmast, E2 tapered head tube, BB90, invisible cable routing, control centre, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible ForkMadone KVF full carbon, carbon E2 steerer, carbon dropouts, integrated brake and stem. Wheels: WheelsBontrager Aeolus 5 D3 Tubeless Ready. Shimano Dura - Ace Di2",
-      "weight": "56cm - 6.80kg"
+      "weight": "not included"
     },
     {
       "id": "10",
@@ -100,15 +100,6 @@
     },
     {
       "id": "12",
-      "name": "Trek Madone 9.9",
-      "price": "11,999.99",
-      "img": "madone99.jpg",
-      "description": "It doesn't get better than this. Madone 9.9 is the final stop in your search for a top-of-the-line superbike. It's the choice of the pros of Trek-Segafredo, and for good reason: advanced road bike aerodynamics, light weight, the highest level parts spec and the finest ride quality available.",
-      "tech": "600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed Micro-adjust seatmast, E2 tapered head tube, BB90, invisible cable routing, control centre, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible ForkMadone KVF full carbon, carbon E2 steerer, carbon dropouts, integrated brake and stem. Wheels: WheelsBontrager Aeolus 5 D3 Tubeless Ready. Shimano Dura - Ace Di2",
-      "weight": "56cm - 6.80kg"
-    },
-    {
-      "id": "13",
       "name": "Trek Madone 9.9",
       "price": "11,999.99",
       "img": "madone99.jpg",
