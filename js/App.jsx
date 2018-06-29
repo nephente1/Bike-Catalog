@@ -19,7 +19,7 @@ const App = () => (
     <Switch>
         <Route exact path="/" component={Homepage}/>
         <Route path="/list" component={(props) => <List shows={data.items} {...props} />}/>
-        <Route path="/details/:id" component={(props)=> <Details show={data.items.find(item => item.itemId === props.match.params.id)} />}/>
+        <Route path="/details/:id" component={(props)=> <Details show={data.items.find(item => item.id === props.match.params.id)} />}/>
         <Route component={FourOFour}/>
         </Switch>
     </div>

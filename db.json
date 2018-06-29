@@ -1,121 +1,120 @@
 {
-    "items": [
-      {
-        "name": "Trek Madone 9.9",
-        "price": "49 999 PLN",
-        "img": "trek.jpg",
-        "description": "It doesn't get better than this. Madone 9.9 is the final stop in your search for a top-of-the-line superbike. It's the choice of the pros of Trek-Segafredo, and for good reason: advanced road bike aerodynamics, light weight, the highest level parts spec and the finest ride quality available. This is our fastest, most aerodynamic road bike ever, and it's right for riders who want the best and nothing less for every performance advantage on the road.",
-        "tech":"600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed Micro-adjust seatmast, E2 tapered head tube, BB90, invisible cable routing, control centre, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible ForkMadone KVF full carbon, carbon E2 steerer, carbon dropouts, integrated brake and stem. Wheels: WheelsBontrager Aeolus 5 D3 Tubeless Ready. EQUIPMENT: Shimano Dura - Ace Di2",
-        "weight": "56cm - 6.80kg",
-        "itemId" :"1"
-      },
-      {
-        "name": "Fuji SL 1.1",
-        "price": "$7,499.99",
-        "img": "fujiSL.jpg",
-        "description": "The SL was born out of the quest to create one of the lightest bikes in the world, a machine weight weenies dream of. When every gram matters, ingenuity follows: Through High Compaction molding and the reduction of bonded joints the SL delivers a frame weight of only 695g without compromising on frame stiffness. The SL is in an elite class of superlight bicycles and is elevating Fuji road bikes to a higher level.",
-        "tech":"FRAME: C15 HC ultra high-modulus carbon w/ High Compaction molding, integrated head tube w/ 1 1/2 lower, PF30 BB, double water bottle mounts, oversized chainstays, carbon dropout replaceable hanger. FORK: FC-330 carbon monocoque w/ tapered carbon steerer & carbon dropout. WHEELSET: Oval Concepts 928, 700c 20/24H, Carbon Tubeless Compatible rims. EQUIPMENT: SRAM RED eTAP, ErgoDynamic, 11-speed",
-        "itemId" :"2"
-      },
-      {
-        "name": "SCOTT FOIL RC BIKE",
-        "price": "28 330 PLN",
-        "img": "scott-foil.jpg",
-        "description": "Stage wins at all the grand tours, classic victories at Milan San Remo, Liege Bastogne Liege and Paris-Roubaix - we can safely say that the FOIL is the most versatile aero bike on the market. Its HMX Carbon fiber frame was designed to help you gain those extra precious seconds, and comes in as one of the lightest in the aero market.",
-        "tech":"FOIL HMX / IMP, Carbon Frame FOIL HMX Fork, Shimano Dura-Ace 22 Speed, Zipp 30 Course Wheels, Continental Grand Sport Race Tires, Syncros Carbon Parts",
-        "weight": "6.80kg",
-        "itemId" :"3"
-      },
-      {
-        "name": "Pinarello Dogma F8",
-        "price": "40 520 PLN",
-        "img": "pinarello.jpg",
-        "description": "The eighth generation of DOGMA creates a play of words that can become a perfect advertising slogan: The Eighth Dogma ... the eighth wonder of the world. In the past two years, DOGMA 65.1 has been the most titled bike on the planet, winning the Tour de France twice, the World Championship and more than 100 Pro Tour races.",
-        "tech":"Carbon T11001K. The Dogma 65.1 has been a best seller without precedent for Pinarello and is universally recognized as a benchmark in the world of high end Road Bikes. Starting from these premises, you can imagine how difficult it was to improve this cult bike. Pinarello LAB, TEAM SKY and JAGUAR created a working group where everyone brought his decisive contribution. Team SKY with feedback from its athletes, Jaguar the Aerodynamics concerns CFD and Wind Tunnel testing, Pinarello LAB for cycling part, structural study and design. This synergy brought to light the Dogma F8. EQUIPMENT: SRAM RED",
-        "weight": "not-included",
-        "itemId" :"4"
-      },
-      {
-        "name": "CERVELO S5 ETAP",
-        "price": "47 215 PLN",
-        "img": "cervelo.jpg",
-        "description": "The new S5 has revolutionized the aero road segment – again. It combines many incremental improvements across the frame to deliver one huge improvement to you: more speed. The model that BikeRadar calls “spectacular in terms of raw aggression and savage speed” now offers increased stiffness, race-ready geometry and improved ride quality to produce our fastest road bike ever.",
-        "tech":"Made from Cervelo's carbon fibre and shaped into airfoil tubing, this bike slips with ease through the air. A cut-out seat tube improving management of turbulent air, strength and stiffness are assured by Cervelo's proprietary BBRight system. The Cervelo S5 eTap Road Bike sits at the pinnacle of this brand's aero road offering. Using an elite SRAM Red eTap groupset and benefitting from a frame that has been the choice of WorldTour professional bike riders, this machine is an elite racer. Strong, stiff and using airfoil tubing for extra advantages on the road, this bike is finished off with ENVE's SES 3.4 clincher wheels.",
-        "weight": "not included",
-        "itemId" :"5"
-      },
-      {
-        "name": "AEROAD CF SLX 9.0 DI2",
-        "price": "6399 euro",
-        "img": "canyon.jpg",
-        "description": "We all train hard and are looking for that competitive edge to make the most of our fitness. That’s where buying the Aeroad CF SLX 9.0 Di2 will come in very handy. Lightweight at just 980 g, stiff, comfortable, and supremely aerodynamic, the Aeroad CF SLX will be that extra pro-level push to get you to the front of the pack.",
-        "tech":"Our most aero frame helps with touches like having direct mount brakes and the integrated seat clamp for the S27 Aero VCLS CF seatpost ensure you won’t be losing watts to poorly designed interfaces. And nothing screams quality like kitting your bike out with Shimano Dura-Ace Di2, which represents just about the pinnacle of drivetrain technology. And rolling with the UST tubeless ready Mavic Comete Pro Carbon SL racing wheels with their 64mm NACA airfoil rim profile will be the final puzzle piece to have you slicing through the wind. The Aeroad CF SLX 9.0 Di2 will have you flying past the rest of the pack.",
-        "weight": "7,1 KG (SIZE M)",
-        "itemId" :"6"
-      },
-      {
-        "name": "Trek Madone 9.9",
-        "price": "11,999.99",
-        "img": "madone99.jpg",
-        "description": "It doesn't get better than this. Madone 9.9 is the final stop in your search for a top-of-the-line superbike. It's the choice of the pros of Trek-Segafredo, and for good reason: advanced road bike aerodynamics, light weight, the highest level parts spec and the finest ride quality available.",
-        "tech":"600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed Micro-adjust seatmast, E2 tapered head tube, BB90, invisible cable routing, control centre, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible ForkMadone KVF full carbon, carbon E2 steerer, carbon dropouts, integrated brake and stem. Wheels: WheelsBontrager Aeolus 5 D3 Tubeless Ready. Shimano Dura - Ace Di2",
-        "weight": "56cm - 6.80kg",
-        "itemId" :"7"
-      },
-      {
-        "name": "Trek Madone 9.9",
-        "price": "11,999.99",
-        "img": "madone99.jpg",
-        "description": "It doesn't get better than this. Madone 9.9 is the final stop in your search for a top-of-the-line superbike. It's the choice of the pros of Trek-Segafredo, and for good reason: advanced road bike aerodynamics, light weight, the highest level parts spec and the finest ride quality available.",
-        "tech":"600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed Micro-adjust seatmast, E2 tapered head tube, BB90, invisible cable routing, control centre, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible ForkMadone KVF full carbon, carbon E2 steerer, carbon dropouts, integrated brake and stem. Wheels: WheelsBontrager Aeolus 5 D3 Tubeless Ready. Shimano Dura - Ace Di2",
-        "weight": "56cm - 6.80kg",
-        "itemId" :"8"
-      },
-      {
-        "name": "Trek Madone 9.9",
-        "price": "11,999.99",
-        "img": "madone99.jpg",
-        "description": "It doesn't get better than this. Madone 9.9 is the final stop in your search for a top-of-the-line superbike. It's the choice of the pros of Trek-Segafredo, and for good reason: advanced road bike aerodynamics, light weight, the highest level parts spec and the finest ride quality available.",
-        "tech":"600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed Micro-adjust seatmast, E2 tapered head tube, BB90, invisible cable routing, control centre, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible ForkMadone KVF full carbon, carbon E2 steerer, carbon dropouts, integrated brake and stem. Wheels: WheelsBontrager Aeolus 5 D3 Tubeless Ready. Shimano Dura - Ace Di2",
-        "weight": "56cm - 6.80kg",
-        "itemId" :"9"
-      },
-      {
-        "name": "Trek Madone 9.9",
-        "price": "11,999.99",
-        "img": "madone99.jpg",
-        "description": "It doesn't get better than this. Madone 9.9 is the final stop in your search for a top-of-the-line superbike. It's the choice of the pros of Trek-Segafredo, and for good reason: advanced road bike aerodynamics, light weight, the highest level parts spec and the finest ride quality available.",
-        "tech":"600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed Micro-adjust seatmast, E2 tapered head tube, BB90, invisible cable routing, control centre, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible ForkMadone KVF full carbon, carbon E2 steerer, carbon dropouts, integrated brake and stem. Wheels: WheelsBontrager Aeolus 5 D3 Tubeless Ready. Shimano Dura - Ace Di2",
-        "weight": "56cm - 6.80kg",
-        "itemId" :"10"
-      },
-      {
-        "name": "Trek Madone 9.9",
-        "price": "11,999.99",
-        "img": "madone99.jpg",
-        "description": "It doesn't get better than this. Madone 9.9 is the final stop in your search for a top-of-the-line superbike. It's the choice of the pros of Trek-Segafredo, and for good reason: advanced road bike aerodynamics, light weight, the highest level parts spec and the finest ride quality available.",
-        "tech":"600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed Micro-adjust seatmast, E2 tapered head tube, BB90, invisible cable routing, control centre, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible ForkMadone KVF full carbon, carbon E2 steerer, carbon dropouts, integrated brake and stem. Wheels: WheelsBontrager Aeolus 5 D3 Tubeless Ready. Shimano Dura - Ace Di2",
-        "weight": "56cm - 6.80kg",
-        "itemId" :"12"
-      },
-      {
-        "name": "Trek Madone 9.9",
-        "price": "11,999.99",
-        "img": "madone99.jpg",
-        "description": "It doesn't get better than this. Madone 9.9 is the final stop in your search for a top-of-the-line superbike. It's the choice of the pros of Trek-Segafredo, and for good reason: advanced road bike aerodynamics, light weight, the highest level parts spec and the finest ride quality available.",
-        "tech":"600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed Micro-adjust seatmast, E2 tapered head tube, BB90, invisible cable routing, control centre, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible ForkMadone KVF full carbon, carbon E2 steerer, carbon dropouts, integrated brake and stem. Wheels: WheelsBontrager Aeolus 5 D3 Tubeless Ready. Shimano Dura - Ace Di2",
-        "weight": "56cm - 6.80kg",
-        "itemId" :"13"
-      },
-      {
-        "name": "Trek Madone 9.9",
-        "price": "11,999.99",
-        "img": "madone99.jpg",
-        "description": "It doesn't get better than this. Madone 9.9 is the final stop in your search for a top-of-the-line superbike. It's the choice of the pros of Trek-Segafredo, and for good reason: advanced road bike aerodynamics, light weight, the highest level parts spec and the finest ride quality available.",
-        "tech":"600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed Micro-adjust seatmast, E2 tapered head tube, BB90, invisible cable routing, control centre, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible ForkMadone KVF full carbon, carbon E2 steerer, carbon dropouts, integrated brake and stem. Wheels: WheelsBontrager Aeolus 5 D3 Tubeless Ready. Shimano Dura - Ace Di2",
-        "weight": "56cm - 6.80kg",
-        "itemId" :"14"
-      }
-      
-    ]
-  }
+  "items": [
+    {
+      "id": "1",
+      "name": "Trek Madone 9.9",
+      "price": "49 999 PLN",
+      "img": "trek.jpg",
+      "description": "It doesn't get better than this. Madone 9.9 is the final stop in your search for a top-of-the-line superbike. It's the choice of the pros of Trek-Segafredo, and for good reason: advanced road bike aerodynamics, light weight, the highest level parts spec and the finest ride quality available. This is our fastest, most aerodynamic road bike ever, and it's right for riders who want the best and nothing less for every performance advantage on the road.",
+      "tech": "600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed Micro-adjust seatmast, E2 tapered head tube, BB90, invisible cable routing, control centre, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible ForkMadone KVF full carbon, carbon E2 steerer, carbon dropouts, integrated brake and stem. Wheels: WheelsBontrager Aeolus 5 D3 Tubeless Ready. EQUIPMENT: Shimano Dura - Ace Di2",
+      "weight": "56cm - 6.80kg"
+    },
+    {
+      "id": "2",
+      "name": "Fuji SL 1.1",
+      "price": "$7,499.99",
+      "img": "fujiSL.jpg",
+      "description": "The SL was born out of the quest to create one of the lightest bikes in the world, a machine weight weenies dream of. When every gram matters, ingenuity follows: Through High Compaction molding and the reduction of bonded joints the SL delivers a frame weight of only 695g without compromising on frame stiffness. The SL is in an elite class of superlight bicycles and is elevating Fuji road bikes to a higher level.",
+      "tech": "FRAME: C15 HC ultra high-modulus carbon w/ High Compaction molding, integrated head tube w/ 1 1/2 lower, PF30 BB, double water bottle mounts, oversized chainstays, carbon dropout replaceable hanger. FORK: FC-330 carbon monocoque w/ tapered carbon steerer & carbon dropout. WHEELSET: Oval Concepts 928, 700c 20/24H, Carbon Tubeless Compatible rims. EQUIPMENT: SRAM RED eTAP, ErgoDynamic, 11-speed"
+    },
+    {
+      "id": "3",
+      "name": "SCOTT FOIL RC BIKE",
+      "price": "28 330 PLN",
+      "img": "scott-foil.jpg",
+      "description": "Stage wins at all the grand tours, classic victories at Milan San Remo, Liege Bastogne Liege and Paris-Roubaix - we can safely say that the FOIL is the most versatile aero bike on the market. Its HMX Carbon fiber frame was designed to help you gain those extra precious seconds, and comes in as one of the lightest in the aero market.",
+      "tech": "FOIL HMX / IMP, Carbon Frame FOIL HMX Fork, Shimano Dura-Ace 22 Speed, Zipp 30 Course Wheels, Continental Grand Sport Race Tires, Syncros Carbon Parts",
+      "weight": "6.80kg"
+    },
+    {
+      "id": "4",
+      "name": "Pinarello Dogma F8",
+      "price": "40 520 PLN",
+      "img": "pinarello.jpg",
+      "description": "The eighth generation of DOGMA creates a play of words that can become a perfect advertising slogan: The Eighth Dogma ... the eighth wonder of the world. In the past two years, DOGMA 65.1 has been the most titled bike on the planet, winning the Tour de France twice, the World Championship and more than 100 Pro Tour races.",
+      "tech": "Carbon T11001K. The Dogma 65.1 has been a best seller without precedent for Pinarello and is universally recognized as a benchmark in the world of high end Road Bikes. Starting from these premises, you can imagine how difficult it was to improve this cult bike. Pinarello LAB, TEAM SKY and JAGUAR created a working group where everyone brought his decisive contribution. Team SKY with feedback from its athletes, Jaguar the Aerodynamics concerns CFD and Wind Tunnel testing, Pinarello LAB for cycling part, structural study and design. This synergy brought to light the Dogma F8. EQUIPMENT: SRAM RED",
+      "weight": "not-included"
+    },
+    {
+      "id": "5",
+      "name": "CERVELO S5 ETAP",
+      "price": "47 215 PLN",
+      "img": "cervelo.jpg",
+      "description": "The new S5 has revolutionized the aero road segment – again. It combines many incremental improvements across the frame to deliver one huge improvement to you: more speed. The model that BikeRadar calls “spectacular in terms of raw aggression and savage speed” now offers increased stiffness, race-ready geometry and improved ride quality to produce our fastest road bike ever.",
+      "tech": "Made from Cervelo's carbon fibre and shaped into airfoil tubing, this bike slips with ease through the air. A cut-out seat tube improving management of turbulent air, strength and stiffness are assured by Cervelo's proprietary BBRight system. The Cervelo S5 eTap Road Bike sits at the pinnacle of this brand's aero road offering. Using an elite SRAM Red eTap groupset and benefitting from a frame that has been the choice of WorldTour professional bike riders, this machine is an elite racer. Strong, stiff and using airfoil tubing for extra advantages on the road, this bike is finished off with ENVE's SES 3.4 clincher wheels.",
+      "weight": "not included"
+    },
+    {
+      "id": "6",
+      "name": "AEROAD CF SLX 9.0 DI2",
+      "price": "6399 euro",
+      "img": "canyon.jpg",
+      "description": "We all train hard and are looking for that competitive edge to make the most of our fitness. That’s where buying the Aeroad CF SLX 9.0 Di2 will come in very handy. Lightweight at just 980 g, stiff, comfortable, and supremely aerodynamic, the Aeroad CF SLX will be that extra pro-level push to get you to the front of the pack.",
+      "tech": "Our most aero frame helps with touches like having direct mount brakes and the integrated seat clamp for the S27 Aero VCLS CF seatpost ensure you won’t be losing watts to poorly designed interfaces. And nothing screams quality like kitting your bike out with Shimano Dura-Ace Di2, which represents just about the pinnacle of drivetrain technology. And rolling with the UST tubeless ready Mavic Comete Pro Carbon SL racing wheels with their 64mm NACA airfoil rim profile will be the final puzzle piece to have you slicing through the wind. The Aeroad CF SLX 9.0 Di2 will have you flying past the rest of the pack.",
+      "weight": "7,1 KG (SIZE M)"
+    },
+    {
+      "id": "7",
+      "name": "Trek Madone 9.9",
+      "price": "11,999.99",
+      "img": "madone99.jpg",
+      "description": "It doesn't get better than this. Madone 9.9 is the final stop in your search for a top-of-the-line superbike. It's the choice of the pros of Trek-Segafredo, and for good reason: advanced road bike aerodynamics, light weight, the highest level parts spec and the finest ride quality available.",
+      "tech": "600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed Micro-adjust seatmast, E2 tapered head tube, BB90, invisible cable routing, control centre, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible ForkMadone KVF full carbon, carbon E2 steerer, carbon dropouts, integrated brake and stem. Wheels: WheelsBontrager Aeolus 5 D3 Tubeless Ready. Shimano Dura - Ace Di2",
+      "weight": "56cm - 6.80kg"
+    },
+    {
+      "id": "8",
+      "name": "Trek Madone 9.9",
+      "price": "11,999.99",
+      "img": "madone99.jpg",
+      "description": "It doesn't get better than this. Madone 9.9 is the final stop in your search for a top-of-the-line superbike. It's the choice of the pros of Trek-Segafredo, and for good reason: advanced road bike aerodynamics, light weight, the highest level parts spec and the finest ride quality available.",
+      "tech": "600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed Micro-adjust seatmast, E2 tapered head tube, BB90, invisible cable routing, control centre, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible ForkMadone KVF full carbon, carbon E2 steerer, carbon dropouts, integrated brake and stem. Wheels: WheelsBontrager Aeolus 5 D3 Tubeless Ready. Shimano Dura - Ace Di2",
+      "weight": "56cm - 6.80kg"
+    },
+    {
+      "id": "9",
+      "name": "Trek Madone 9.9",
+      "price": "11,999.99",
+      "img": "madone99.jpg",
+      "description": "It doesn't get better than this. Madone 9.9 is the final stop in your search for a top-of-the-line superbike. It's the choice of the pros of Trek-Segafredo, and for good reason: advanced road bike aerodynamics, light weight, the highest level parts spec and the finest ride quality available.",
+      "tech": "600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed Micro-adjust seatmast, E2 tapered head tube, BB90, invisible cable routing, control centre, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible ForkMadone KVF full carbon, carbon E2 steerer, carbon dropouts, integrated brake and stem. Wheels: WheelsBontrager Aeolus 5 D3 Tubeless Ready. Shimano Dura - Ace Di2",
+      "weight": "56cm - 6.80kg"
+    },
+    {
+      "id": "10",
+      "name": "Trek Madone 9.9",
+      "price": "11,999.99",
+      "img": "madone99.jpg",
+      "description": "It doesn't get better than this. Madone 9.9 is the final stop in your search for a top-of-the-line superbike. It's the choice of the pros of Trek-Segafredo, and for good reason: advanced road bike aerodynamics, light weight, the highest level parts spec and the finest ride quality available.",
+      "tech": "600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed Micro-adjust seatmast, E2 tapered head tube, BB90, invisible cable routing, control centre, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible ForkMadone KVF full carbon, carbon E2 steerer, carbon dropouts, integrated brake and stem. Wheels: WheelsBontrager Aeolus 5 D3 Tubeless Ready. Shimano Dura - Ace Di2",
+      "weight": "56cm - 6.80kg"
+    },
+    {
+      "id": "11",
+      "name": "Trek Madone 9.9",
+      "price": "11,999.99",
+      "img": "madone99.jpg",
+      "description": "It doesn't get better than this. Madone 9.9 is the final stop in your search for a top-of-the-line superbike. It's the choice of the pros of Trek-Segafredo, and for good reason: advanced road bike aerodynamics, light weight, the highest level parts spec and the finest ride quality available.",
+      "tech": "600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed Micro-adjust seatmast, E2 tapered head tube, BB90, invisible cable routing, control centre, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible ForkMadone KVF full carbon, carbon E2 steerer, carbon dropouts, integrated brake and stem. Wheels: WheelsBontrager Aeolus 5 D3 Tubeless Ready. Shimano Dura - Ace Di2",
+      "weight": "56cm - 6.80kg"
+    },
+    {
+      "id": "12",
+      "name": "Trek Madone 9.9",
+      "price": "11,999.99",
+      "img": "madone99.jpg",
+      "description": "It doesn't get better than this. Madone 9.9 is the final stop in your search for a top-of-the-line superbike. It's the choice of the pros of Trek-Segafredo, and for good reason: advanced road bike aerodynamics, light weight, the highest level parts spec and the finest ride quality available.",
+      "tech": "600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed Micro-adjust seatmast, E2 tapered head tube, BB90, invisible cable routing, control centre, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible ForkMadone KVF full carbon, carbon E2 steerer, carbon dropouts, integrated brake and stem. Wheels: WheelsBontrager Aeolus 5 D3 Tubeless Ready. Shimano Dura - Ace Di2",
+      "weight": "56cm - 6.80kg"
+    },
+    {
+      "id": "13",
+      "name": "Trek Madone 9.9",
+      "price": "11,999.99",
+      "img": "madone99.jpg",
+      "description": "It doesn't get better than this. Madone 9.9 is the final stop in your search for a top-of-the-line superbike. It's the choice of the pros of Trek-Segafredo, and for good reason: advanced road bike aerodynamics, light weight, the highest level parts spec and the finest ride quality available.",
+      "tech": "600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed Micro-adjust seatmast, E2 tapered head tube, BB90, invisible cable routing, control centre, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible ForkMadone KVF full carbon, carbon E2 steerer, carbon dropouts, integrated brake and stem. Wheels: WheelsBontrager Aeolus 5 D3 Tubeless Ready. Shimano Dura - Ace Di2",
+      "weight": "56cm - 6.80kg"
+    }
+  ]
+}

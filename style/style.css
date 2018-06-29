@@ -1,9 +1,8 @@
-
-  
+ 
   * {
     box-sizing: border-box;
     margin: 0;
-    paddin: 0px;
+    padding: 0px;
   }
   
   html {
@@ -145,22 +144,6 @@
       display:flex;
       flex-direction: column;
   }
-
-  /* .details > div {
-    width: 100%;
-    height: 0;
-    padding-bottom: 56.25%;
-    position: relative;
-    float:left;
-  } */
-  
-  .details > div > iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
   
   header > input {
     min-width: 250px;
@@ -190,5 +173,10 @@
   
   .details > header + section {
     margin-top: 25px;
+  }
+
+  .postbike{
+    margin: 20px 0;
+    flex-direction: column;
   }
   

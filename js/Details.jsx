@@ -13,6 +13,7 @@ class Details extends React.Component{
        
         <img src={`/public/img/${this.props.show.img}`} alt={`Poster for ${this.props.show.title}`}/>
         <p>{this.props.show.description}</p>
+        <p>{this.props.show.tech}</p>
     </section>
     </div>
         )

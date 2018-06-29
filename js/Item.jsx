@@ -21,7 +21,7 @@ const Image = styled.img`
 
 const Item = props => (
     
-    <Wrapper to={`/details/${props.itemId}`}>
+    <Wrapper to={`/details/${props.id}`}>
         <Image src={`/public/img/${props.img}`} alt={`${props.name} Cover`}/>
         <div>
             <h2>{props.name}</h2>
@@ -37,7 +37,7 @@ Item.propTypes = {
     name: string.isRequired,
     price: string.isRequired,
     description: string.isRequired,
-    itemId: string.isRequired
+    id: string.isRequired
 };
 
 export default Item;
